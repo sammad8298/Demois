@@ -1,2 +1,2 @@
 # Demois
-This is prectice
+This is prectice.
